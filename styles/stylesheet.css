@@ -1,0 +1,33 @@
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 300px;
+}
+
+p{
+    font-style: italic;
+}
+
+body{
+    background-color: aqua ;
+}
+
+h3{
+    font-family: monospace;
+}
+
+ul li{
+    color: brown;
+}
+
+li{
+    color: rgb(115, 202, 23);
+}
+
+
